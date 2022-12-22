@@ -10,6 +10,7 @@ Developing an app that keeps track of your daily expanses. You can use this app 
 ![Screenshot 2022-12-22 134807](https://user-images.githubusercontent.com/68225960/209090194-cf66fdc5-0000-4d10-ab39-da7fe62cb8dd.jpg)
 
 
+## Resources
 
 A few resources to get you started if this is your first Flutter project:
 
